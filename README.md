@@ -51,21 +51,21 @@ You can contact me through MS Teams and schedule consultation if needed. You can
 
 |Date |Subject|
 |-----|-------|
-|2021-02-23 | Introduction to statistical learning|
-|2021-03-02 | Working with Git and GitHub|
-|2021-03-09 |Introduction to building prediction models|
-|2021-03-16 | Methods of evaluation of classifiers|
-|2021-03-23 | Regularization methods|
-|2021-03-30 | Local models|
-|2021-04-13 | Modeling causality|
-|2021-04-20 | Introduction to deep learning|
-|2021-04-27 | Machine learning in estimating Heterogeneous Treatment Effects of a marketing campaign (in cooperation with McKinsey)|
-|2021-05-04 | AutoML|
-|2021-05-11 | Introduction to the Julia language for data science|
-|2021-05-18 | Working with data in the Julia language|
-|2021-05-25 | Parallelizing computations with the Julia language|
-|2021-06-01 | Introduction to graph mining|
-|2021-06-08 | Explainable machine learning|
+| 2021-02-23 | Introduction to statistical learning|
+| 2021-03-02 | Working with Git and GitHub|
+| 2021-03-09 |Introduction to building prediction models|
+| 2021-03-16 | Methods of evaluation of classifiers|
+| 2021-03-23 | Regularization methods|
+| 2021-03-30 | Local models|
+| 2021-04-13 | Modeling causality|
+| 2021-04-20 | Introduction to deep learning|
+| 2021-04-27 | Machine learning use case (in cooperation with McKinsey)|
+| 2021-05-04 | AutoML|
+| 2021-05-11 | Introduction to the Julia language for data science|
+| 2021-05-18 | Working with data in the Julia language|
+| 2021-05-25 | Parallelizing computations with the Julia language|
+| 2021-06-01 | Introduction to graph mining|
+| 2021-06-08 | Explainable machine learning|
 
 ---
 **Laboratories**
