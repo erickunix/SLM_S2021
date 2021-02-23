@@ -1,6 +1,15 @@
 # SLM_S2021
 Repository for Statistical Learning Methods - Summer semester 2020/21
 
+**Required software**
+
+During the course we'll use RStudio and Jupyter Notebook. 
+To run the code provided during classes you'll need:
+* R - https://cran.r-project.org/mirrors.html
+* Python - https://www.python.org/downloads/ (for Windows user it's easy to install Python through Anaconda - https://anaconda.org/)
+* RStudio - https://rstudio.com/products/rstudio/download/
+* Jupyter Notebook or Jupyter Lab - https://jupyter.org/install 
+
 **Modeling problem report**
 
 Use the following dataset hosted on UCI repository: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing (use `bank-additional-full.csv` file). It contains information related with direct marketing campaigns. All files and description are available under the given URL.
