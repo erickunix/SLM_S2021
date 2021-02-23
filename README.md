@@ -10,6 +10,10 @@ To run the code provided during classes you'll need:
 * RStudio - https://rstudio.com/products/rstudio/download/
 * Jupyter Notebook or Jupyter Lab - https://jupyter.org/install 
 
+Additionally you can install:
+* Git - https://git-scm.com/
+* PowerShell (for Windows) - https://github.com/PowerShell/PowerShell
+
 **Modeling problem report**
 
 Use the following dataset hosted on UCI repository: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing (use `bank-additional-full.csv` file). It contains information related with direct marketing campaigns. All files and description are available under the given URL.

@@ -1,11 +1,10 @@
 # Statistical Learning Methods
-# Lukasz Krainski lukasz.krainski123@gmail.com
+# Lukasz Krainski lukasz.krainski123@gmail.com/lkrain@sgh.waw.pl
 # Class 1
 
 # http://www.cyclismo.org/tutorial/R/
 # https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
 # https://www.datacamp.com/courses/free-introduction-to-r
-# https://www.edx.org/course/introduction-r-data-science-microsoft-dat204x-3
 
 #### Agenda ####
 
