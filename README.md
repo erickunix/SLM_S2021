@@ -42,6 +42,7 @@ Each email should have 2 attachments:
 **Contact**
 
 Name: Łukasz Kraiński
+
 Email: lkrain@sgh.waw.pl or lukasz.krainski123@gmail.com
 
 You can contact me through MS Teams and schedule consultation if needed. You can create an issue in the repository if you have remarks regarding repository content/structure.
@@ -51,7 +52,7 @@ You can contact me through MS Teams and schedule consultation if needed. You can
 
 * lecturer: Bogumił Kamiński
 * laboratories: 
-  * Groups 1 and 2 -Łukasz Kraiński
+  * Groups 1 and 2 – Łukasz Kraiński
   * Group 3 – Michał Kot
 
 ---
@@ -91,8 +92,9 @@ You can contact me through MS Teams and schedule consultation if needed. You can
 |3 |Nonparametric regression models: smoothing spline, LOESS, GAM|
 |4 |Classical machine learning models: CART, random forest|
 |5 |Bayesian networks and probabilistic programming|
-|6 |Modeling competition|
-|7 |Computer exam|
+|6 |Deep Learning example + Dockerization|
+|7 |Modeling competition|
+|8 |Computer exam| 
 
 ---
 **Literature**
@@ -119,13 +121,13 @@ B. Kamiński, P. Szufel: Julia 1.0 Programming Cookbook, Packt Publishing, 2018
 ---
 **Course evaluation criteria**
 
-* Modeling problem report (50 points); deadline until last laboratory (7th class), subject of modelling will be discussed during first class; for more details see section _Modeling problem report_ above
+* Modeling problem report (50 points); deadline until last laboratory, subject of modelling will be discussed during first class; for more details see section _Modeling problem report_ above
 
 * Laboratory examination (50 points); during last laboratory performed on-line; it will include both practical (writing R code) and theoretical questions (related to statistical models and machine learning)
 
 * Possible extra points: 
   * homeworks
-  * competition (6th class)
+  * competition (7th class)
   * course: https://juliaacademy.com/p/introduction-to-dataframes-jl1 (5 points) - send an e-mail with certificate of completion before **08.06.2021r EOD**
 
 ---
