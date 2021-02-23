@@ -26,11 +26,11 @@ The task is to produce a report with following structure:
 
 `10pts` 3) EDA (both graphical e.g. barplots, scatterplots and descriptive e.g. tables with statistics) with focus on exploring relations between features and target variable; include correlation matrix/heatmap between numerical variables; use one of the clustering (e.g. k-means, hierarchical clustering) or dimensionality reduction technique (e.g. PCA, t-SNE, UMAP) to derive additional insight from data
 
-`5pts` 4) Create models (at least 3 distinct types of models) and tune hyperparameters for each model
+`10pts` 4) Create models (at least 3 distinct types of models) and tune hyperparameters for each model
 
 `10pts` 5) Graphical (e.g. barplots of errors, ROC curves, residual graphs, etc.) and descriptive model assessment (comparing measures picked as performance criteria); remember to choose appropriate measure for the task - RMSE is measure for regression, not classification
 
-`10pts` 6) Summary, short discussion on encountered problems, actions undertaken to solve them, possible shortcomings of used model/approach/data
+`5pts` 6) Summary, short discussion on encountered problems, actions undertaken to solve them, possible shortcomings of used model/approach/data
 
 Code and descriptions/comments should be in Jupyter or R Markdown notebook. Please send reports to _lukasz.krainski123@gmail.com_ or _lkrain@sgh.waw.pl_ with following naming convention <index_number>_SLM_S2021_Report.< extension > before **08.06.2021r. EOD**. 
   
