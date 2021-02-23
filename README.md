@@ -3,15 +3,17 @@ Repository for Statistical Learning Methods - Summer semester 2020/21
 
 **Modeling problem report**
 
-The task is to analyze the data and produce a report with following structure:
+Use the following dataset hosted on UCI repository: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing (use `bank-additional-full.csv` file). It contains information related with direct marketing campaigns. All files and description are available under the given URL.
 
-`5pts` 1) Introduction, problem/task description (you should choose at least one supervised learning task, provide description of target variable, rationale behind picking particular task and target), features explanation
+The task is to produce a report with following structure:
 
-`10pts` 2) Cleaning and preprocessing data - removing or imputing missing data, standarization, one-hot encoding, handling outliers, feature extraction, etc. (some of these points may go to part 3 if EDA/exploration was the cause of particular action)
+`5pts` 1) Introduction, problem/task description (you should choose at least one supervised learning task, provide description of target variable, rationale behind picking particular task and target), features explanation, dataset description
 
-`10pts` 3) EDA (both graphical e.g. barplots, scatterplots and descriptive e.g. tables with statistics) with focus on exploring relations between features and target variable; include correlation matrix/heatmap between numerical variables
+`10pts` 2) Cleaning and preprocessing data - removing or imputing missing data, standarization, one-hot encoding, handling outliers, feature extraction, merging categories etc. (some of these points may go to part 3 if EDA/exploration was the cause of particular action)
 
-`5pts` 4) Creating models (at least 3 distinct types of models), tune hyperparameters for each model (if model has no hyperparameters, you may "tune" the dataset)
+`10pts` 3) EDA (both graphical e.g. barplots, scatterplots and descriptive e.g. tables with statistics) with focus on exploring relations between features and target variable; include correlation matrix/heatmap between numerical variables; use one of the clustering (e.g. k-means, hierarchical clustering) or dimensionality reduction technique (e.g. PCA, t-SNE, UMAP) to derive additional insight from data
+
+`5pts` 4) Create models (at least 3 distinct types of models) and tune hyperparameters for each model
 
 `10pts` 5) Graphical (e.g. barplots of errors, ROC curves, residual graphs, etc.) and descriptive model assessment (comparing measures picked as performance criteria); remember to choose appropriate measure for the task - RMSE is measure for regression, not classification
 
@@ -53,7 +55,7 @@ You can contact me through MS Teams and schedule consultation if needed. You can
 |-----|-------|
 | 2021-02-23 | Introduction to statistical learning|
 | 2021-03-02 | Working with Git and GitHub|
-| 2021-03-09 |Introduction to building prediction models|
+| 2021-03-09 | Introduction to building prediction models|
 | 2021-03-16 | Methods of evaluation of classifiers|
 | 2021-03-23 | Regularization methods|
 | 2021-03-30 | Local models|
@@ -104,14 +106,14 @@ B. Kamiński, P. Szufel: Julia 1.0 Programming Cookbook, Packt Publishing, 2018
 ---
 **Course evaluation criteria**
 
-* Modeling problem report (50 points); deadline before last laboratory (7th class), subject of modelling will be discussed during first class
+* Modeling problem report (50 points); deadline until last laboratory (7th class), subject of modelling will be discussed during first class; for more details see section _Modeling problem report_ above
 
 * Laboratory examination (50 points); during last laboratory performed on-line; it will include both practical (writing R code) and theoretical questions (related to statistical models and machine learning)
 
 * Possible extra points: 
   * homeworks
-  * competition (6th classes)
-  * course: https://juliaacademy.com/p/introduction-to-dataframes-jl1 (5 points)
+  * competition (6th class)
+  * course: https://juliaacademy.com/p/introduction-to-dataframes-jl1 (5 points) - send an e-mail with certificate of completion before **08.06.2021r EOD**
 
 ---
 **Grading rules**
