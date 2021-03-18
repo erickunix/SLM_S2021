@@ -128,7 +128,7 @@ B. Kamiński, P. Szufel: Julia 1.0 Programming Cookbook, Packt Publishing, 2018
 * Possible extra points: 
   * homeworks
   * competition (7th class)
-  * course: https://juliaacademy.com/p/introduction-to-dataframes-jl1 (5 points) - send an e-mail with certificate of completion before **08.06.2021r EOD**
+  * course: https://juliaacademy.com/p/introduction-to-dataframes-jl1 (5 points) - send an e-mail with screenshot of completion before **08.06.2021r EOD**
 
 ---
 **Grading rules**
