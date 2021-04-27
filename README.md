@@ -32,7 +32,7 @@ The task is to produce a report with following structure:
 
 `5pts` 6) Summary, short discussion on encountered problems, actions undertaken to solve them, possible shortcomings of used model/approach/data
 
-Code and descriptions/comments should be in Jupyter or R Markdown notebook. Please send reports to _lukasz.krainski123@gmail.com_ or _lkrain@sgh.waw.pl_ with following naming convention <index_number>_SLM_S2021_Report.< extension > before **08.06.2021r. EOD**. 
+Code and descriptions/comments should be in Jupyter or R Markdown notebook. Please send reports to _lukasz.krainski123@gmail.com_ or _lkrain@sgh.waw.pl_ with following naming convention <index_number>_SLM_S2021_Report.< extension > before **08.06.2021r. EOD**. You can use Python or R language for the report.
   
 Each email should have 2 attachments: 
 - for Jupyter: `.ipynb` file and `.html/.pdf` file generated from notebook, 
