@@ -127,7 +127,7 @@ B. Kamiński, P. Szufel: Julia 1.0 Programming Cookbook, Packt Publishing, 2018
 
 * Possible extra points: 
   * homeworks
-  * competition (7th class)
+  * competition (7th class) - please form groups up to 3 people for the competition, task will be to obtain highest metric on dataset revealed on the day of competition. Each group will have 4 hours to produce the best model (regressor or classifier) and send prediction outcome to the teacher. More information will be available shortly before 7th class.
   * course: https://juliaacademy.com/p/introduction-to-dataframes-jl1 (5 points) - send an e-mail with screenshot of completion before **08.06.2021r EOD**
 
 ---
