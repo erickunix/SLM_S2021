@@ -38,4 +38,4 @@ Best team in each group will receive 5 points, next 4 points, etc.
 |LiuKimCa|62.56   |3|Custom Random Forest     |Python  |
 |NoTeamNameGiven  |45.02   |2|Logistic Regression      |R       |
 
-All observations in test set were cancelled booking, so you can easily check your score :). For `NoTeamNameGiven` only 5000 first observations from predictions were used in assessment. Congratulations for all teams!
+All observations in test set are cancelled bookings, so you can easily check your score :). For `NoTeamNameGiven` only 5000 first observations from predictions were used in assessment. Congratulations for all teams!
