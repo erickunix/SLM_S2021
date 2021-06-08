@@ -123,7 +123,11 @@ B. Kamiński, P. Szufel: Julia 1.0 Programming Cookbook, Packt Publishing, 2018
 
 * Modeling problem report (50 points); deadline until last laboratory, subject of modelling will be discussed during first class; for more details see section _Modeling problem report_ above
 
-* Laboratory examination (50 points); during last laboratory performed on-line; it will include both practical (writing R code) and theoretical questions (related to statistical models and machine learning)
+* Laboratory examination (50 points); during last laboratory performed on-line; it will include both practical (writing R code) and theoretical questions (related to statistical models and machine learning):
+  * Group 1 - Starts 17:10, ends 19:40
+  * Group 2 - Starts 19:00, ends 21:30
+
+Send filled examination script (.R file) to lukasz.krainski123@gmail.com or lkrain@sgh.waw.pl. Results will be available through MS Teams by 13.06.2021.
 
 * Possible extra points: 
   * homeworks
